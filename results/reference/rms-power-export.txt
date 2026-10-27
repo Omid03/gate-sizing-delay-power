@@ -1,0 +1,13 @@
+s_power=   1.7141m  from=   0.             to= 800.0000n
+
+s_power=   1.7928m  from=   0.             to= 800.0000n
+
+s_power=   1.8705m  from=   0.             to= 800.0000n
+
+s_power=   1.9473m  from=   0.             to= 800.0000n
+
+s_power=   2.0242m  from=   0.             to= 800.0000n
+
+s_power=   2.1006m  from=   0.             to= 800.0000n
+
+s_power=   2.1771m  from=   0.             to= 800.0000n

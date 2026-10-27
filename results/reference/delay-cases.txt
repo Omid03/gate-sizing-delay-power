@@ -1,0 +1,146 @@
+ case1:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  61.7423p  targ= 100.0973n   trig= 100.0356n
+ t_fall=  28.1981p  targ= 200.0406n   trig= 200.0124n
+ tp=  45.6738p  targ= 100.0607n   trig= 100.0150n
+
+  case2:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  55.7633p  targ= 100.0902n   trig= 100.0345n
+ t_fall=  27.1199p  targ= 200.0395n   trig= 200.0123n
+ tp=  41.8927p  targ= 100.0569n   trig= 100.0150n
+
+  case3:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  53.8289p  targ= 100.0874n   trig= 100.0336n
+ t_fall=  26.1856p  targ= 200.0385n   trig= 200.0123n
+ tp=  39.8071p  targ= 100.0548n   trig= 100.0150n
+
+  case4:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  53.0108p  targ= 100.0863n   trig= 100.0333n
+ t_fall=  25.3087p  targ= 200.0389n   trig= 200.0136n
+ tp=  38.4455p  targ= 100.0534n   trig= 100.0150n
+
+  case4.5:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  51.2716p  targ= 100.0844n   trig= 100.0331n
+ t_fall=  25.7587p  targ= 200.0382n   trig= 200.0124n
+ tp=  37.4777p  targ= 100.0525n   trig= 100.0150n
+
+ case5:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.6634p  targ= 100.0826n   trig= 100.0329n
+ t_fall=  26.1477p  targ= 200.0386n   trig= 200.0125n
+ tp=  36.8890p  targ= 100.0519n   trig= 100.0150n
+
+  case6:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.2160p  targ= 100.0822n   trig= 100.0330n
+ t_fall=  26.1583p  targ= 200.0387n   trig= 200.0126n
+ tp=  36.7159p  targ= 100.0517n   trig= 100.0150n
+
+  case7:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.1417p  targ= 100.0823n   trig= 100.0332n
+ t_fall=  26.4795p  targ= 200.0391n   trig= 200.0126n
+ tp=  36.6058p  targ= 100.0516n   trig= 100.0150n
+
+  case8:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.3334p  targ= 100.0827n   trig= 100.0334n
+ t_fall=  26.9521p  targ= 200.0397n   trig= 200.0127n
+ tp=  36.6272p  targ= 100.0516n   trig= 100.0150n
+
+  case9:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.5489p  targ= 100.0831n   trig= 100.0336n
+ t_fall=  26.9966p  targ= 200.0398n   trig= 200.0128n
+ tp=  36.7581p  targ= 100.0518n   trig= 100.0150n
+
+  case10:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  48.6075p  targ= 100.0822n   trig= 100.0336n
+ t_fall=  27.3868p  targ= 200.0403n   trig= 200.0129n
+ tp=  36.9471p  targ= 100.0519n   trig= 100.0150n
+
+ case11:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.1417p  targ= 100.0828n   trig= 100.0336n
+ t_fall=  27.9192p  targ= 200.0409n   trig= 200.0130n
+ tp=  37.3189p  targ= 100.0523n   trig= 100.0150n
+
+  case12:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  49.5342p  targ= 100.0832n   trig= 100.0337n
+ t_fall=  28.4179p  targ= 200.0416n   trig= 200.0132n
+ tp=  37.7415p  targ= 100.0527n   trig= 100.0150n
+
+  case13:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  51.0807p  targ= 100.0849n   trig= 100.0338n
+ t_fall=  28.8420p  targ= 200.0421n   trig= 200.0133n
+ tp=  38.1127p  targ= 100.0531n   trig= 100.0150n
+
+  case14:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  50.2393p  targ= 100.0841n   trig= 100.0338n
+ t_fall=  29.2178p  targ= 200.0426n   trig= 200.0134n
+ tp=  38.4779p  targ= 100.0535n   trig= 100.0150n
+
+  case15:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  50.4905p  targ= 100.0844n   trig= 100.0339n
+ t_fall=  29.5488p  targ= 200.0431n   trig= 200.0136n
+ tp=  38.9497p  targ= 100.0539n   trig= 100.0150n
+
+  case16:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  51.7282p  targ= 100.0857n   trig= 100.0340n
+ t_fall=  29.9705p  targ= 200.0437n   trig= 200.0137n
+ tp=  39.6100p  targ= 100.0546n   trig= 100.0150n
+
+  case17:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  52.9446p  targ= 100.0872n   trig= 100.0343n
+ t_fall=  30.5948p  targ= 200.0445n   trig= 200.0139n
+ tp=  40.1515p  targ= 100.0552n   trig= 100.0150n
+
+  case18:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  52.2467p  targ= 100.0869n   trig= 100.0347n
+ t_fall=  31.0935p  targ= 200.0451n   trig= 200.0140n
+ tp=  40.6142p  targ= 100.0556n   trig= 100.0150n
+
+  case19:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  51.8304p  targ= 100.0870n   trig= 100.0352n
+ t_fall=  31.5377p  targ= 200.0457n   trig= 200.0141n
+ tp=  41.0349p  targ= 100.0560n   trig= 100.0150n
+
+  case20:
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ t_rise=  51.7799p  targ= 100.0875n   trig= 100.0357n
+ t_fall=  31.9901p  targ= 200.0463n   trig= 200.0143n
+ tp=  41.5603p  targ= 100.0566n   trig= 100.0150n

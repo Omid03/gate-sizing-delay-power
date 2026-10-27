@@ -1,0 +1,15 @@
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+  **warning** (nmos:m1 (CA2_code+.sp:21)) Warning:  Acde = 0.263957 may be too small in BSIM4 model with w=2.56e-07 l=3.2e-08.
+ s_power=   1.8705m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   1.7141m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   1.7928m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   1.9473m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   2.0242m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   2.1006m  from=   0.             to= 800.0000n
+  **warning** (CA2_code+.sp:71) Unrecognized output type for @device.power in .print or .probe; The line is ignored.
+ s_power=   2.1771m  from=   0.             to= 800.0000n
